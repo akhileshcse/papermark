@@ -61,7 +61,7 @@ Here's what you need to run Papermark:
 ### 1. Clone the repository
 
 ```shell
-git clone https://github.com/mfts/papermark.git
+git clone https://github.com/akhileshcse/papermark.git
 cd papermark
 ```
 
